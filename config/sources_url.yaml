@@ -1,0 +1,17 @@
+# sources_url.yaml file
+
+sources:
+  - source: "dgt"
+    sourceName: "Dirección General de Tráfico"
+    url: "https://www.dgt.es/.content/.assets/json/camaras.json"
+    format: "json"
+  
+  - source: "andorra"
+    sourceName: "Mobilitat Govern d'Andorra"
+    url: "https://app.mobilitat.ad/api/v1/cameras"
+    format: "json"
+  
+  - source: "trafikoa"
+    sourceName: "Trafikoa Gobierno Vasco"
+    url: "https://api.euskadi.eus/traffic/v1.0/cameras?_page=1"
+    format: "json"

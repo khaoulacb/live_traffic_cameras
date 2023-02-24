@@ -1,0 +1,28 @@
+# ENV
+.env
+.venv/
+
+# PYTHON
+*.pyc
+*~
+__pycache__
+.pytest_cache
+test/.pytest_cache/
+
+# Visual Studio
+.vscode/
+.history/
+*.code-workspace
+
+
+# Windows
+Thumbs.db*
+ehthumbs*.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Static folder at project root
+/static/
+
+# DATABASE
+config/database_config.yaml
