@@ -1,2 +1,2 @@
 # live_traffic_cameras
-Project that provides API to access the necessary data of live traffic cameras in Spain
+Project that extracts and loads the data of live traffic cameras in Spain and loads it to a local SQL database.
