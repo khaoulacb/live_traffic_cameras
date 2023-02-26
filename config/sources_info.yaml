@@ -1,17 +1,26 @@
-# sources_url.yaml file
+# sources_info.yaml file
 
 sources:
   - source: "dgt"
     sourceName: "Dirección General de Tráfico"
     url: "https://www.dgt.es/.content/.assets/json/camaras.json"
+    class: "NormalizeDgt"
+    module: "src.data_model.normalize.normalize_dgt"
     format: "json"
+    fileName: "dgt.csv"
   
   - source: "andorra"
     sourceName: "Mobilitat Govern d'Andorra"
     url: "https://app.mobilitat.ad/api/v1/cameras"
+    class: "NormalizeAndorra"
+    module: "src.data_model.normalize.normalize_andorra"
     format: "json"
+    fileName: "andorra.csv"
   
   - source: "trafikoa"
     sourceName: "Trafikoa Gobierno Vasco"
     url: "https://api.euskadi.eus/traffic/v1.0/cameras?_page=1"
+    class: "NormalizeTrafikoa"
+    module: "src.data_model.normalize.normalize_trafikoa"
     format: "json"
+    fileName: "trafikoa.csv"

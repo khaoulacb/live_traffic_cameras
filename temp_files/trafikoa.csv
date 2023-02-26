@@ -1,0 +1,462 @@
+camera_id,name,url_image,road,km,location_info,latitude,longitude
+75,CCTV 232 - Cámara DOMO 232,,N - 637,016+500,Cruces,4792953.64,507650.15
+76,DOMO 233,,N - 637,011+000,Cruces,4794032.11,502765.43
+77,CCTV 300 - Cámara DOMO nudo Kukularra,http://www.bizkaimove.com/camaras/cam1.jpg,BI-637,008+500,Kurtzes,4794665.86,503178.8
+78,CCTV 301 - Curvas de Kukularra,,BI-637,009+200,Kukularra,4795334.63,502951.74
+79,CCTV 302 - Avanzada,http://www.bizkaimove.com/camaras/cam3.jpg,BI-637,010+000,Kukularra,4795927.48,502499.74
+80,CCTV 303 - Entrada Túnel Leioa (dir. Getxo),http://www.bizkaimove.com/camaras/cam13.jpg,BI-637,011+650,Kurtzes,4796823.02,501285.9
+81,CCTV 304 - DOMO La Avanzada túnel largo,,BI-637,011+920,Kurtzes,4796989.22,501024.97
+82,CCTV 305 - DOMO La Avanzada túnel del medio,,BI-637,012+280,Kurtzes,4797162.77,500777.67
+83,CCTV 306 - Tunel de Artaza Domo,,BI-637,013+200,Kukularra,4797803.85,499912.45
+84,CCTV 309 - Salida Túnel Leioa (dir. Getxo),,BI-637,012+690,Kurtzes,4797449.7,500397.9
+85,CCTV 312 - Rotonda Artaza,http://www.bizkaimove.com/camaras/cam5.jpg,BI-637,013+500,Kurtzes,4797816.62,499855.46
+86,CCTV 313 - Salida Artea,,BI-637,014+000,Kurtzes,4798943.94,500232.54
+87,CCTV 314 - Artea,http://www.bizkaimove.com/camaras/cam41.jpg,BI-637,014+500,Kurtzes,4798899.42,500454.06
+88,CCTV 315 - Puente Artea,,BI-637,015+300,Kukularra,4799388.61,500465.05
+89,CCTV 316 - Báscula bombeo,http://www.bizkaimove.com/camaras/cam42.jpg,BI-637,016+400,Kukularra,4800423.97,499980.63
+90,CCTV 401 - Bajada de Enekuri,http://www.bizkaimove.com/camaras/cam50.jpg,BI-604,003+850,Asua,4791682.4,503640.1
+91,CCTV 402 - Bajada de Enekuri,,BI-604,004+030,Bilbao,4791874.47,503539.63
+92,CCTV 403 - Chatarrería,,BI-604,004+580,Bilbao,4792381.24,503385.38
+93,CCTV 404 - Alto Enekuri,,BI-604,005+220,Bilbao,4792929.07,503148.22
+94,CCTV 405 - Subida Enekuri (dir. Túnel),,BI-604,006+100,Asua,4793520.52,503767.77
+95,Cctv 406 - DOMO Enekuri,http://www.bizkaimove.com/camaras/cam51.jpg,BI-604,005+500,Bilbao,4793286.29,503295.78
+96,DOMO 603 - Alto de Kastrejana,,BI-636,004+700,Bilbao,4790648.8,502330.7
+97,CCTV 604,,BI-636,008+700,Bilbao,4787576.16,500759.85
+98,CCTV 605,,BI-636,010+100,Balmaseda,4786924.15,499431.38
+99,CCTV 606,http://www.bizkaimove.com/camaras/cam80.jpg,BI-636,012+070,Bilbao,4785390.78,498396.97
+100,CCTV 607,,BI-636,,Balmaseda,4783752.0,496556.29
+101,CCTV 609,http://www.bizkaimove.com/camaras/cam81.jpg,BI-636,016+730,Balmaseda,4782306.66,496127.36
+102,CCTV 612,http://www.bizkaimove.com/camaras/cam82.jpg,BI-636,018+750,Balmaseda,4782221.36,494536.38
+103,CCTV 613,,BI-636,019+800,Balmaseda,4782787.67,493816.34
+104,CCTV 614,http://www.bizkaimove.com/camaras/cam83.jpg,BI-636,022+000,Balmaseda,4784024.32,491757.19
+105,CCTV 701 - Salida a Miraflores,,BI-631,000+800,A8,4788359.37,506257.99
+106,CCTV 702 - Miraflores,http://www.bizkaimove.com/camaras/cam60.jpg,BI-631,001+300,Bermeo,4788073.12,506544.1
+107,CCTV 703 - Rotonda de Ibarsusi,http://www.bizkaimove.com/camaras/cam61.jpg,BI-631,003+000,Bermeo,4788694.72,508021.55
+108,CCTV 704 - Txurdinaga,,BI-631,003+800,A8,4789141.66,508258.28
+109,CCTV 705,,BI-631,004+800,Bermeo,4789876.24,508410.46
+110,CCTV 706 - Alto Sto. Domingo,,BI-631,005+640,A8,4790228.99,507791.6
+111,CCTV 707,http://www.bizkaimove.com/camaras/cam62.jpg,BI-631,006+580,A8,4790796.14,507597.24
+112,CCTV 708,,BI-631,008+050,A8,4791892.75,508134.6
+113,CCTV 709 - Viaducto de Derio,,BI-631,009+000,A8,4792497.42,508829.49
+114,CCTV 710 - Derio,,BI-631,010+210,A8,4793072.72,509672.43
+115,CCTV 711 - Junto a la Gasolinera,http://www.bizkaimove.com/camaras/cam59.jpg,BI-631,007+200,A8,4791154.41,507807.66
+116,CCTV 712 - Salida Begoña,,BI-631,006+000,A8,4790200.14,507519.43
+117,CCTV 713,,BI-631,006+200,A8,4790415.67,507495.25
+118,CCTV 801 - Aeropuerto I,,BI-633,012+000,BI-631,4794910.42,509728.68
+119,CCTV 802 - Aeropuerto II,http://www.bizkaimove.com/camaras/cam33.jpg,BI-633,013+650,Aeropuerto,4794998.65,508358.61
+120,SLO_DOM_002D (ERMCME017) PK 75+100,,AP-8,75+100,DONOSTIA,4780599.8,541291.45
+121,SLO_DOM_001D (18) PK 75+500,http://www.bizkaimove.com/camaras/cam96.jpg?t=8760216,AP-8,75+500,DONOSTIA,4780642.32,540917.11
+122,SLO_DOM_001A(19) PK 76+100,,AP-8,76+100,SANTANDER,4780555.96,540351.39
+123,ZAL_DOM_001A (E2ECME014) PK 76+800,,AP-8,76+800,SANTANDER,4780339.8,539801.28
+124,ERM_DOM_001A (67) PK 77+000,, ROTONDA,77+000,ROTONDA,4780510.27,539657.98
+125,ERM_DOM_002D (66) PK 77+000,,AP-8,77+000,PEAJE,4780527.0,539582.0
+126,ERM_DOM_002A (65) PK 77+000,,AP-8,77+000,SANTANDER,4780485.0,539404.0
+127,ERM_DOM_001D (64) PK 77+400,,AP-8,77+400,DONOSTIA,4780362.74,539189.29
+128,ZAL_DOM_002A (E2ECME013) PK 78+050,http://www.bizkaimove.com/camaras/cam95.jpg?t=8760215,AP-8,78+050,SANTANDER,4780596.98,538465.61
+129,ZAL_DOM_002D (E2ECME015) PK 78+920,http://www.bizkaimove.com/camaras/cam94.jpg?t=8760215,AP-8,78+920,DONOSTIA,4779975.44,537877.31
+130,ZAL_DOM_003A (E2NCME052) PK 78+520,,AP-8,78+520,SANTANDER,4780298.63,538127.92
+131,ZAL_DOM_003D (E2NCME053) PK 78+520,,AP-8,78+520,DONOSTIA,4780471.58,538228.96
+132,ZAL_DOMJ_001D (E2ECME016) PK 80+000,,AP-8,80+000,DONOSTIA,4779527.85,536820.07
+133,GED_DOM_004D (63) PK 84+300,,AP-8,84+300,DONOSTIA,4779503.84,532792.48
+134,GED_DOM_005D (20) PK 84+100,http://www.bizkaimove.com/camaras/cam93.jpg?t=8760215,AP-8,84+100,DONOSTIA,4779535.47,533036.44
+135,GED_DOM_001A (GEDCME060) PK 84+600,,AP-8,84+600,SANTANDER,4779618.99,532546.53
+136,GED_DOM_002A (GEDCME059) PK 85+000,,AP-8,85+000,DONOSTIA,4779643.0,532292.0
+137,GEO_DOM_001D (GEDCME058) PK 85+000,,AP-8,85+000,DONOSTIA,4779619.0,532163.0
+138,GED_DOM_003D (GEDCME057) PK 85+000,,AP-8,85+000,DONOSTIA,4779517.0,532066.0
+139,GED_DOM_002D (GEDCME056) PK 85+000,,AP-8,85+000,DONOSTIA,4779620.0,532034.0
+140,IUR_DOM_000A (55) PK 86+800,,AP-8,86+800,SANTANDER,4780668.76,530605.46
+141,IUR_DOM_001A (IURCME023) PK 88+400,http://www.bizkaimove.com/camaras/cam92.jpg?t=8760214,AP-8,88+400,SANTANDER,4780892.0,529015.0
+142,IUR_DOM_001D (IURCME022) PK 88+400,,AP-8,88+400,DONOSTIA,4780803.94,529089.6
+143,IUR_DOM_002D (DUCME025) PK 88+400,,AP-8,88+400,DONOSTIA,4780629.0,528998.0
+144,IUR_DOM_006D (24) PK 88+400,,AP-8,88+400,SANTANDER,4780747.0,528997.0
+145,IUR_DOM_003D (DUECM027) PK 88+300,,AP-8,88+300,SANTANDER,4780665.0,529071.0
+146,IUR_DOM_004D (DUECM026) PK 88+200,,AP-8,88+200,SANTANDER,4780780.0,529122.0
+147,IUR_DOM_002A (21) PK 88+300,,A.MANTENIMIENTO,88+300,A.MANTENIMIENTO,4780782.46,529045.82
+148,IUR_DOM_005D (54) PK 88+300 A.,,A.MANTENIMIENTO,88+300,A.MANTENIMIENTO,4780781.52,529045.85
+149,EUB_DOM_001D (EUBCME028) PK 91+000,http://www.bizkaimove.com/camaras/cam91.jpg?t=8760214,AP-8,91+000,DONOSTIA,4781649.48,526479.21
+150,AME_DOM_001D (AMECME035) PK 96+100,http://www.bizkaimove.com/camaras/cam90.jpg?t=8760214,AP-8,96+100,DONOSTIA,4784378.77,522738.13
+151,AMS_DOM_001A (AMSCME036) PK 97+080,http://www.bizkaimove.com/camaras/cam89.jpg?t=8760214,AP-8,97+080,SANTANDER,4785486.95,522155.51
+152,BOR_DOM_003D (BORCME051) PK 100+000,http://www.bizkaimove.com/camaras/cam88.jpg?t=8760214,AP-8,100+000,DONOSTIA,4786367.39,520244.61
+153,BOR_DOM_002D (BORCME032) PK 100+000,,AP-8,100+000,SANTANDER,4786511.0,520120.0
+154,BOR_DOM_001A (BORCME031) PK 100+000,,AP-8,100+000,SANTANDER,4786577.0,520044.0
+155,BOR_DOM_001D (BORCME033) PK 100+190,,AP-8,100+190,DONOSTIA,4786439.0,519825.0
+156,ERL_DOM_001A (ERLCME034) PK 103+680,http://www.bizkaimove.com/camaras/cam87.jpg?t=8760214,AP-8,103+680,SANTANDER,4787154.59,516071.84
+157,ELG_DOM_002D (ELGCME030) PK 105+500,,AP-8,105+500,DONOSTIA,4786097.0,514529.0
+158,ELG_DOM_003D (ELGCME029) PK 105+500,,AP-8,105+500,DONOSTIA,4786173.0,514556.0
+159,ELG_DOM_001D (ELGCME037) PK 105+720,http://www.bizkaimove.com/camaras/cam86.jpg?t=8760213,AP-8,105+720,DONOSTIA,4786319.63,514395.94
+4,Autonomía/Gordóniz,https://www.bilbao.eus/camarastrafico/codec0004/snap_c1.jpg,,,Autonomía/Gordóniz,43.25750273790335,-2.941314167775675
+5,Plza. Museo,https://www.bilbao.eus/camarastrafico/codec0005/snap_c1.jpg,,,Plza. Museo,43.26640123790335,-2.9383852677756748
+6,Plza. Pío X,https://www.bilbao.eus/camarastrafico/codec0006/snap_c1.jpg,,,Plza. Pío X,43.27135973790335,-2.941474267775675
+10,Plza. Zabálburu,https://www.bilbao.eus/camarastrafico/codec0010/snap_c1.jpg,,,Plza. Zabálburu,43.25714143790335,-2.934032167775675
+16,Lehendakari Aguirre/Avda. Enekuri,https://www.bilbao.eus/camarastrafico/codec0016/snap_c1.jpg,,,Lehendakari Aguirre/Avda. Enekuri,43.27207213790335,-2.947412467775675
+17,Pte. La Salve,https://www.bilbao.eus/camarastrafico/codec0017/snap_c1.jpg,,,Pte. La Salve,43.26787623790335,-2.933092167775675
+18,Sda. Familia/Lehendakari Aguirre,https://www.bilbao.eus/camarastrafico/codec0018/snap_c1.jpg,,,Sda. Familia/Lehendakari Aguirre,43.27214663790335,-2.952478067775675
+20,Benidorm,https://www.bilbao.eus/camarastrafico/codec0020/snap_c1.jpg,,,Benidorm,43.27419773790335,-2.958231067775675
+21,Avda. Txomin Garat,https://www.bilbao.eus/camarastrafico/codec0021/snap_c1.jpg,,,Avda. Txomin Garat,43.25735873790335,-2.910064467775675
+22,Santutxu/Karmelo,https://www.bilbao.eus/camarastrafico/codec0022/snap_c1.jpg,,,Santutxu/Karmelo,43.25366103790335,-2.915809067775675
+24,Marqués de Laurencín,https://www.bilbao.eus/camarastrafico/codec0024/snap_c1.jpg,,,Marqués de Laurencín,43.25044033790335,-2.908811767775675
+25,Pte. La Merced,https://www.bilbao.eus/camarastrafico/codec0025/snap_c1.jpg,,,Pte. La Merced,43.25751383790335,-2.927325967775675
+28,Juan de Garay/Ramal autopista,https://www.bilbao.eus/camarastrafico/codec0028/snap_c1.jpg,,,Juan de Garay/Ramal autopista,43.25038263790335,-2.935062167775675
+29,Zumalakarregi/Maurice Ravel,https://www.bilbao.eus/camarastrafico/codec0029/snap_c1.jpg,,,Zumalakarregi/Maurice Ravel,43.264671537903354,-2.917238567775675
+31,Gordóniz/Jaén,https://www.bilbao.eus/camarastrafico/codec0031/snap_c1.jpg,,,Gordóniz/Jaén,43.25465973790335,-2.944539767775675
+32,Sdo. Corazón Oeste (Olabeaga),https://www.bilbao.eus/camarastrafico/codec0032/snap_c1.jpg,,,Sdo. Corazón Oeste (Olabeaga),43.26523233790335,-2.9452184677756748
+36,Avda. Leizaola/Abandoibarra,https://www.bilbao.eus/camarastrafico/codec0036/snap_c1.jpg,,,Avda. Leizaola/Abandoibarra,43.26781393790335,-2.942291167775675
+37,Paseo Uribitarte (Rotonda),https://www.bilbao.eus/camarastrafico/codec0037/snap_c1.jpg,,,Paseo Uribitarte (Rotonda),43.26827963790335,-2.930955767775675
+38,Jardines Gernika/Gortazar,https://www.bilbao.eus/camarastrafico/codec0038/snap_c1.jpg,,,Jardines Gernika/Gortazar,43.248447637903354,-2.926206967775675
+39,Pte. Euskalduna/Botica Vieja,https://www.bilbao.eus/camarastrafico/codec0039/snap_c1.jpg,,,Pte. Euskalduna/Botica Vieja,43.26798733790335,-2.949242867775675
+40,Artalandio/Julián Gaiarre,https://www.bilbao.eus/camarastrafico/codec0040/snap_c1.jpg,,,Artalandio/Julián Gaiarre,43.25520183790335,-2.901190667775675
+43,Indalecio Prieto/Santutxu,https://www.bilbao.eus/camarastrafico/codec0043/snap_c1.jpg,,,Indalecio Prieto/Santutxu,43.25018863790335,-2.917024667775675
+44,Plza. Euskadi,https://www.bilbao.eus/camarastrafico/codec0044/snap_c1.jpg,,,Plza. Euskadi,43.26656533790335,-2.937462367775675
+48,Fray Juan/Clara Campoamor,https://www.bilbao.eus/camarastrafico/codec0048/snap_c1.jpg,,,Fray Juan/Clara Campoamor,43.27711333790335,-2.973839167775675
+49,Fray Juan/Ctra. Zorrotza Kastrexana,https://www.bilbao.eus/camarastrafico/codec0049/snap_c1.jpg,,,Fray Juan/Ctra. Zorrotza Kastrexana,43.27629903790335,-2.970672367775675
+50,Ciudad Jardin/Avda. Maurice Ravel,https://www.bilbao.eus/camarastrafico/codec0050/snap_c1.jpg,,,Ciudad Jardin/Avda. Maurice Ravel,43.26991523790335,-2.923202167775675
+51,Zabalbide/Avda. Zumalacarregui,https://www.bilbao.eus/camarastrafico/codec0051/snap_c1.jpg,,,Zabalbide/Avda. Zumalacarregui,43.25626963790335,-2.911125067775675
+53,Campo Volantín/Múgica y Butrón,https://www.bilbao.eus/camarastrafico/codec0053/snap_c1.jpg,,,Campo Volantín/Múgica y Butrón,43.26726803790335,-2.927788567775675
+54,Zamakola/Ctra. Buia,https://www.bilbao.eus/camarastrafico/codec0054/snap_c1.jpg,,,Zamakola/Ctra. Buia,43.24089053790335,-2.920844767775675
+55,Abusu/Zamakola,https://www.bilbao.eus/camarastrafico/codec0055/snap_c1.jpg,,,Abusu/Zamakola,43.24491473790335,-2.924167367775675
+56,Gordoniz/Ciudadela,https://www.bilbao.eus/camarastrafico/codec0056/snap_c1.jpg,,,Gordoniz/Ciudadela,43.25269653790335,-2.946180267775675
+57,Avda. Zumalacarregui/San Isidro,https://www.bilbao.eus/camarastrafico/codec0057/snap_c1.jpg,,,Avda. Zumalacarregui/San Isidro,43.26155923790335,-2.915597567775675
+58,Avda. Miraflores/Indalecio Prieto,https://www.bilbao.eus/camarastrafico/codec0058/snap_c1.jpg,,,Avda. Miraflores/Indalecio Prieto,43.24860973790335,-2.919913167775675
+59,Luis Briñas/Zunzunegi,https://www.bilbao.eus/camarastrafico/codec0059/snap_c1.jpg,,,Luis Briñas/Zunzunegi,43.26176893790335,-2.948522867775675
+60,Torres Quevedo,https://www.bilbao.eus/camarastrafico/codec0060/snap_c1.jpg,,,Torres Quevedo,43.26278703790335,-2.949985767775675
+61,Gurtubay/General Eguia,https://www.bilbao.eus/camarastrafico/codec0061/snap_c1.jpg,,,Gurtubay/General Eguia,43.26091953790335,-2.951069567775675
+62,Semitúnel 1,https://www.bilbao.eus/camarastrafico/codec0062/snap_c1.jpg,,,Semitúnel 1,43.26283403790335,-2.950792267775675
+63,Semitúnel 2,https://www.bilbao.eus/camarastrafico/codec0063/snap_c1.jpg,,,Semitúnel 2,43.26358123790335,-2.953473667775675
+66,Plza. Birjinetxe,https://www.bilbao.eus/camarastrafico/codec0066/snap_c1.jpg,,,Plza. Birjinetxe,43.256403637903354,-2.904321567775675
+67,Avda. Montevideo frente a Hospital,https://www.bilbao.eus/camarastrafico/codec0067/snap_c1.jpg,,,Avda. Montevideo frente a Hospital,43.26002803790335,-2.9532819677756748
+71,Zabalbide/Tenor Fagoaga,https://www.bilbao.eus/camarastrafico/codec0071/snap_c1.jpg,,,Zabalbide/Tenor Fagoaga,43.254571637903354,-2.914711267775675
+73,Carmelo Bernaola/Morgan,https://www.bilbao.eus/camarastrafico/codec0073/snap_c1.jpg,,,Carmelo Bernaola/Morgan,43.26900703790335,-2.956182967775675
+74,Pte. Frank Gehry/Ballets de Olaeta,https://www.bilbao.eus/camarastrafico/codec0074/snap_c1.jpg,,,Pte. Frank Gehry/Ballets de Olaeta,43.26797433790335,-2.953946267775675
+75,Lehendakari Aguirre/Baleares,https://www.bilbao.eus/camarastrafico/codec0075/snap_c1.jpg,,,Lehendakari Aguirre/Baleares,43.27798903790335,-2.961034667775675
+76,Plza. Eskurtze,https://www.bilbao.eus/camarastrafico/codec0076/snap_c1.jpg,,,Plza. Eskurtze,43.25172033790335,-2.937940867775675
+78,Elorrieta/Avda. Zarandoa,https://www.bilbao.eus/camarastrafico/codec0078/snap_c1.jpg,,,Elorrieta/Avda. Zarandoa,43.28362883790335,-2.966955867775675
+79,Ribera Elorrieta,https://www.bilbao.eus/camarastrafico/codec0079/snap_c1.jpg,,,Ribera Elorrieta,43.28784423790335,-2.968813467775675
+1,Iurreta,https://www.trafikoa.eus/static/files/tr/camaras/819.jpg,A-8,91.000,,43.18725,-2.673754
+2,Montorra,https://www.trafikoa.eus/static/files/tr/camaras/820.jpg,A-8,96.000,,43.21167,-2.719359
+3,Boroa 2,https://www.trafikoa.eus/static/files/tr/camaras/821.jpg,A-8,101.000,,43.23135,-2.768933
+4,Loiola,https://www.trafikoa.eus/static/files/tr/camaras/806.jpg,GI-20,8.500,,43.305725,-1.968328
+5,Amara,https://www.trafikoa.eus/static/files/tr/camaras/807.jpg,GI-20,11.000,,43.29769,-1.986157
+6,Ondarreta,https://www.trafikoa.eus/static/files/tr/camaras/809.jpg,GI-20,13.000,,43.29824,-2.009245
+7,Elgoibar 1,https://www.trafikoa.eus/static/files/tr/camaras/816.jpg,A-8,64.500,,43.23597,-2.402644
+8,Elgoibar 2,https://www.trafikoa.eus/static/files/tr/camaras/815.jpg,A-8,64.500,,43.22909,-2.40303
+9,Orio 1,https://www.trafikoa.eus/static/files/tr/camaras/812.jpg,A-8,30.500,,43.29204,-2.067865
+10,Orio 2,https://www.trafikoa.eus/static/files/tr/camaras/811.jpg,A-8,30.500,,43.29223,-2.067674
+11,Arbuio,https://www.trafikoa.eus/static/files/tr/camaras/3601.jpg,BI-636,7.000,,43.245742,-2.982466
+12,Rekalde,https://www.trafikoa.eus/static/files/tr/camaras/830.jpg,A-8,116.000,,43.24759,-2.939664
+13,Puerto Santurtzi,https://www.trafikoa.eus/static/files/tr/camaras/4402.jpg,N-644,130.100,,43.32347,-3.05021
+14,Basauri,https://www.trafikoa.eus/static/files/tr/camaras/3403.jpg,N-634,104.000,,43.23717,-2.87084
+15,Aiurdin,https://www.trafikoa.eus/static/files/tr/camaras/2202.jpg,N-622,16.000,,42.94593,-2.784901
+16,Urbina,https://www.trafikoa.eus/static/files/tr/camaras/4001.jpg,N-240,11.000,,42.940551,-2.6407
+17,Curvas de Ansio,https://www.trafikoa.eus/static/files/tr/camaras/839.jpg,A-8,122.300,,43.28106,-2.985413
+18,Ormaiztegi,https://www.trafikoa.eus/static/files/tr/camaras/3201.jpg,GI-632,1.500,,43.04865,-2.23223
+19,Igay,https://www.trafikoa.eus/static/files/tr/camaras/6817.jpg,AP-68,63.000,,42.742679,-2.913094
+20,Max Center,https://www.trafikoa.eus/static/files/tr/camaras/842.jpg,A-8,124.500,,43.29091,-3.009818
+21,Rivabellosa,https://www.trafikoa.eus/static/files/tr/camaras/1101.jpg,AP-1,77.000,,42.704243,-2.927433
+22,Buia,https://www.trafikoa.eus/static/files/tr/camaras/6801.jpg,AP-68,0.000,,43.23369,-2.91636
+23,Arrigorriaga,https://www.trafikoa.eus/static/files/tr/camaras/6802.jpg,AP-68,5.000,,43.198194,-2.896245
+24,Ugao-Miraballes,https://www.trafikoa.eus/static/files/tr/camaras/6803.jpg,AP-68,7.300,,43.181753,-2.897279
+25,Arakaldo,https://www.trafikoa.eus/static/files/tr/camaras/6804.jpg,AP-68,11.000,,43.156604,-2.931477
+26,Orozko-Murueta,https://www.trafikoa.eus/static/files/tr/camaras/6805.jpg,AP-68,15.000,,43.128034,-2.922996
+27,Orozko-San Isidro,https://www.trafikoa.eus/static/files/tr/camaras/6806.jpg,AP-68,21.400,,43.091045,-2.917975
+28,Ziorraga,https://www.trafikoa.eus/static/files/tr/camaras/6807.jpg,AP-68,29.500,,43.010371,-2.902257
+29,Altube 1,https://www.trafikoa.eus/static/files/tr/camaras/6808.jpg,AP-68,33.000,,42.989691,-2.871997
+30,Altube,https://www.trafikoa.eus/static/files/tr/camaras/6809.jpg,AP-68,33.000,,42.990468,-2.873574
+31,Zuia,https://www.trafikoa.eus/static/files/tr/camaras/6810.jpg,AP-68,36.000,,42.96763,-2.875634
+32,Abornikano,https://www.trafikoa.eus/static/files/tr/camaras/6811.jpg,AP-68,40.000,,42.938258,-2.893873
+33,Kuartango,https://www.trafikoa.eus/static/files/tr/camaras/6812.jpg,AP-68,44.000,,42.906007,-2.896367
+34,Subijana,https://www.trafikoa.eus/static/files/tr/camaras/6813.jpg,AP-68,50.000,,42.852294,-2.893553
+35,Subijana 1,https://www.trafikoa.eus/static/files/tr/camaras/6814.jpg,AP-68,51.000,,42.842331,-2.893884
+36,Pobes,https://www.trafikoa.eus/static/files/tr/camaras/6815.jpg,AP-68,54.000,,42.819888,-2.893696
+37,Hereña,https://www.trafikoa.eus/static/files/tr/camaras/6816.jpg,AP-68,58.000,,42.781457,-2.904328
+38,Ribera Baja,https://www.trafikoa.eus/static/files/tr/camaras/6818.jpg,AP-68,68.000,,42.708733,-2.902783
+39,Armiñon,https://www.trafikoa.eus/static/files/tr/camaras/6819.jpg,AP-68,71.500,,42.68238,-2.889404
+40,Zambrana,https://www.trafikoa.eus/static/files/tr/camaras/6820.jpg,AP-68,74.000,,42.66271,-2.889577
+41,Irun - Ventas,https://www.trafikoa.eus/static/files/tr/camaras/123.jpg,GI-636,9.000,,43.33148,-1.84323
+42,Pasaia 2,https://www.trafikoa.eus/static/files/tr/camaras/805.jpg,GI-20,4.500,,43.3105,-1.934152
+43,Pasaia 1,https://www.trafikoa.eus/static/files/tr/camaras/804.jpg,GI-20,5.000,,43.310689,-1.937903
+44,Aritzeta,https://www.trafikoa.eus/static/files/tr/camaras/810.jpg,GI-20,15.000,,43.286418,-2.032599
+45,Mendaro 4,https://www.trafikoa.eus/static/files/tr/camaras/814.jpg,A-8,62.000,,43.25636,-2.388769
+46,Mendaro 1,https://www.trafikoa.eus/static/files/tr/camaras/813.jpg,A-8,62.000,,43.25398,-2.389978
+47,Berriz 2,https://www.trafikoa.eus/static/files/tr/camaras/817.jpg,A-8,82.000,,43.16774,-2.562775
+48,Berriz 1,https://www.trafikoa.eus/static/files/tr/camaras/818.jpg,A-8,82.000,,43.1685,-2.568193
+49,Galdakao,https://www.trafikoa.eus/static/files/tr/camaras/823.jpg,A-8,106.600,,43.23054,-2.836321
+50,Arrankudiaga,https://www.trafikoa.eus/static/files/tr/camaras/2501.jpg,BI-625,373.000,,43.153575,-2.941026
+51,Mendaro 2,https://www.trafikoa.eus/static/files/tr/camaras/3401.jpg,N-634,52.000,,43.250278,-2.391828
+52,Mendaro 3,https://www.trafikoa.eus/static/files/tr/camaras/3402.jpg,N-634,52.000,,43.25038,-2.391704
+53,Rotonda Galdakao,https://www.trafikoa.eus/static/files/tr/camaras/824.jpg,A-8,107.400,,43.233856,-2.842195
+54,Sestao,https://www.trafikoa.eus/static/files/tr/camaras/9020.jpg,A-8,126.000,,43.30492,-3.021093
+55,Zabalburu,https://www.trafikoa.eus/static/files/tr/camaras/829.jpg,A-8,115.800,,43.24796,-2.93735
+56,El Haya,https://www.trafikoa.eus/static/files/tr/camaras/845.jpg,A-8,138.500,,43.34299,-3.140078
+57,Oiartzun 1,https://www.trafikoa.eus/static/files/tr/camaras/803.jpg,A-8,11.000,,43.31099,-1.873746
+58,Oiartzun 2,https://www.trafikoa.eus/static/files/tr/camaras/802.jpg,A-8,11.000,,43.31079,-1.8736
+59,Irun,https://www.trafikoa.eus/static/files/tr/camaras/801.jpg,A-8,0.000,,43.33959,-1.75347
+60,Nanclares 1,https://www.trafikoa.eus/static/files/tr/camaras/102.jpg,A-1,341.500,,42.81815,-2.781171
+61,Nanclares 2,https://www.trafikoa.eus/static/files/tr/camaras/103.jpg,A-1,341.500,,42.81848,-2.781124
+62,Abetxuko ,https://www.trafikoa.eus/static/files/tr/camaras/105.jpg,A-1,353.500,,42.88005,-2.677502
+63,Gamarra 1,https://www.trafikoa.eus/static/files/tr/camaras/107.jpg,A-1,354.000,,42.88074,-2.655757
+64,Argomaniz (Ola-Ona) 1,https://www.trafikoa.eus/static/files/tr/camaras/110.jpg,A-1,366.000,,42.879,-2.517056
+65,Argomaniz (Ola-Ona) 2,https://www.trafikoa.eus/static/files/tr/camaras/109.jpg,A-1,366.000,,42.87919,-2.516182
+66,Egino 2,https://www.trafikoa.eus/static/files/tr/camaras/112.jpg,A-1,390.750,,42.864838,-2.253074
+67,Egino 1,https://www.trafikoa.eus/static/files/tr/camaras/111.jpg,A-1,390.750,,42.865227,-2.251983
+68,Etzegarate,https://www.trafikoa.eus/static/files/tr/camaras/113.jpg,N-I,405.800,,42.93622,-2.22604
+69,Olaberria 2,https://www.trafikoa.eus/static/files/tr/camaras/114.jpg,N-I,416.500,,43.03315,-2.218649
+70,Olaberria 1,https://www.trafikoa.eus/static/files/tr/camaras/115.jpg,N-I,416.500,,43.03362,-2.218617
+71,Ordizia 2,https://www.trafikoa.eus/static/files/tr/camaras/116.jpg,N-I,421.000,,43.051054,-2.179263
+72,Ordizia 1,https://www.trafikoa.eus/static/files/tr/camaras/117.jpg,N-I,421.000,,43.051678,-2.178045
+73,Irura 2,https://www.trafikoa.eus/static/files/tr/camaras/118.jpg,N-I,440.500,,43.17421,-2.058955
+74,Irura 1,https://www.trafikoa.eus/static/files/tr/camaras/119.jpg,N-I,440.500,,43.17447,-2.058853
+75,Andoain 1,https://www.trafikoa.eus/static/files/tr/camaras/121.jpg,N-I,446.000,,43.213238,-2.02851
+76,Lasarte,https://www.trafikoa.eus/static/files/tr/camaras/122.jpg,N-I,451.000,,43.24495,-2.023495
+77,Lemoa,https://www.trafikoa.eus/static/files/tr/camaras/4002.jpg,N-240,47.000,,43.17916,-2.774745
+78,Foronda,https://www.trafikoa.eus/static/files/tr/camaras/2201.jpg,N-622,4.000,,42.875506,-2.692619
+79,Sarria 2,https://www.trafikoa.eus/static/files/tr/camaras/2203.jpg,N-622,20.000,,42.961275,-2.827091
+80,Sarria 1,https://www.trafikoa.eus/static/files/tr/camaras/2204.jpg,N-622,20.000,,42.960937,-2.829012
+81,Gamarra 2,https://www.trafikoa.eus/static/files/tr/camaras/108.jpg,N-240,4.500,,42.87785,-2.656894
+82,Boroa 1,https://www.trafikoa.eus/static/files/tr/camaras/822.jpg,A-8,101.000,,43.23126,-2.769212
+83,Rotonda Romo,https://www.trafikoa.eus/static/files/tr/camaras/3723.jpg,BI-637,13.500,,43.3331,-3.001937
+84,Malmasín Sur,https://www.trafikoa.eus/static/files/tr/camaras/825.jpg,A-8,111.100,,43.23114,-2.888571
+85,Malmasín Norte,https://www.trafikoa.eus/static/files/tr/camaras/826.jpg,A-8,113.000,,43.23365,-2.910234
+86,Bomberos Artaza,https://www.trafikoa.eus/static/files/tr/camaras/3724.jpg,BI-637,12.900,,43.33018,-2.996275
+87,Rontegi,https://www.trafikoa.eus/static/files/tr/camaras/6006.jpg,N-637,9.700,,43.29512,-2.975969
+88,Max Center (2),https://www.trafikoa.eus/static/files/tr/camaras/841.jpg,A-8,123.300,,43.28522,-2.996849
+89,Ugaldebieta,https://www.trafikoa.eus/static/files/tr/camaras/844.jpg,A-8,130.500,,43.32481,-3.062233
+90,Salida de Balmaseda,https://www.trafikoa.eus/static/files/tr/camaras/835.jpg,A-8,119.100,,43.26804,-2.964835
+91,Zorroza,https://www.trafikoa.eus/static/files/tr/camaras/836.jpg,A-8,120.400,,43.27411,-2.974299
+92,Cruces,https://www.trafikoa.eus/static/files/tr/camaras/837.jpg,A-8,122.000,,43.28064,-2.985133
+93,Rekalde (2),https://www.trafikoa.eus/static/files/tr/camaras/831.jpg,A-8,116.500,,43.24989,-2.943746
+94,Entrada de Santurce,https://www.trafikoa.eus/static/files/tr/camaras/4401.jpg,A-8,129.000,,43.31728,-3.047059
+95,Urioste,https://www.trafikoa.eus/static/files/tr/camaras/843.jpg,A-8,128.500,,43.31453,-3.044056
+96,Larraskitu,https://www.trafikoa.eus/static/files/tr/camaras/8115.jpg,A-8,115.500,,43.24768,-2.935795
+97,Urioste (2),https://www.trafikoa.eus/static/files/tr/camaras/9001.jpg,A-8,128.000,,43.31218,-3.035826
+98,Salida Miraflores,https://www.trafikoa.eus/static/files/tr/camaras/828.jpg,A-8,114.700,,43.24066,-2.926873
+99,Miribilla Salida,https://www.trafikoa.eus/static/files/tr/camaras/3101.jpg,BI-631,0.300,,43.248083,-2.926371
+100,Irusta,https://www.trafikoa.eus/static/files/tr/camaras/846.jpg,A-8,114.500,,43.23911,-2.92554
+101,Nocedal,https://www.trafikoa.eus/static/files/tr/camaras/847.jpg,A-8,129.500,,43.31848,-3.050342
+102,Trapaga,https://www.trafikoa.eus/static/files/tr/camaras/849.jpg,A-8,125.500,,43.2972,-3.020573
+103,Trapaga 2,https://www.trafikoa.eus/static/files/tr/camaras/850.jpg,A-8,125.500,,43.29646,-3.019722
+104,Entrada Portugalete,https://www.trafikoa.eus/static/files/tr/camaras/848.jpg,A-8,127.000,,43.30792,-3.02781
+105,Ibarrekolanda,https://www.trafikoa.eus/static/files/tr/camaras/6002.jpg,BI-604,4.700,,43.28569,-2.958599
+106,Enekuri,https://www.trafikoa.eus/static/files/tr/camaras/6001.jpg,BI-604,5.300,,43.28985,-2.96085
+107,Asua,https://www.trafikoa.eus/static/files/tr/camaras/6003.jpg,BI-604,6.500,,43.29874,-2.953727
+108,Gerediaga,https://www.trafikoa.eus/static/files/tr/camaras/851.jpg,A-8,87.000,,43.17411,-2.615571
+109,Barakaldo,https://www.trafikoa.eus/static/files/tr/camaras/6008.jpg,N-637,8.900,,43.28938,-2.985772
+110,Kukularra,https://www.trafikoa.eus/static/files/tr/camaras/6009.jpg,N-637,11.100,,43.3009,-2.964104
+111,Incorporación Astrabudua,https://www.trafikoa.eus/static/files/tr/camaras/6010.jpg,BI-637,10.000,,43.3159,-2.968442
+112,Leioa,https://www.trafikoa.eus/static/files/tr/camaras/6005.jpg,BI-637,11.700,,43.324831,-2.985478
+113,Durana Arkaute,https://www.trafikoa.eus/static/files/tr/camaras/124.jpg,A-1,356.900,,42.881957,-2.634242
+114,Luko,https://www.trafikoa.eus/static/files/tr/camaras/4003.jpg,N-240,10.100,,42.926571,-2.643958
+115,Jundiz,https://www.trafikoa.eus/static/files/tr/camaras/1021.jpg,N-102,344.800,,42.828445,-2.739926
+116,Jundiz,https://www.trafikoa.eus/static/files/tr/camaras/126.jpg,A-1,345.450,,42.836502,-2.752356
+117,Arangiz,https://www.trafikoa.eus/static/files/tr/camaras/2206.jpg,N-622,5.850,,42.889243,-2.69813
+118,Agurain,https://www.trafikoa.eus/static/files/tr/camaras/125.jpg,A-1,376.200,,42.846541,-2.418701
+119,Leioa túnel 1,https://www.trafikoa.eus/static/files/tr/camaras/3728.jpg,BI-637,11.800,,43.325103,-2.985974
+120,Leioa túnel 2,https://www.trafikoa.eus/static/files/tr/camaras/3727.jpg,BI-637,11.900,,43.327398,-2.990669
+121,Leioa túnel 3,https://www.trafikoa.eus/static/files/tr/camaras/3726.jpg,BI-637,11.950,,43.327905,-2.991566
+122,Leioa túnel 4,https://www.trafikoa.eus/static/files/tr/camaras/3725.jpg,BI-637,12.000,,43.329212,-2.994179
+123,Entrada túnel Romo,https://www.trafikoa.eus/static/files/tr/camaras/3722.jpg,BI-637,13.550,,43.33358,-3.001458
+124,Salida túnel Romo,https://www.trafikoa.eus/static/files/tr/camaras/3721.jpg,BI-637,13.450,,43.33283,-3.00173
+125,Salida Miraflores 2,https://www.trafikoa.eus/static/files/tr/camaras/827.jpg,A-8,115.200,,43.24372,-2.930473
+126,Lopidana (2),https://www.trafikoa.eus/static/files/tr/camaras/127 .jpg,A-1,350.000,,42.8801,-2.707395
+127,Etxabarri Ibiña (2),https://www.trafikoa.eus/static/files/tr/camaras/2207.jpg,N-622,8.000,,42.905311,-2.710822
+128,Abetxuko-Irun (2),https://www.trafikoa.eus/static/files/tr/camaras/128.jpg,A-1,353.500,,48.87984,-2.677959
+129,Campa Erandio (2),https://www.trafikoa.eus/static/files/tr/camaras/3729.jpg,BI-637,8.900,,43.31036,-2.962614
+130,Añorga (2),https://www.trafikoa.eus/static/files/tr/camaras/2001.jpg,GI-20,11.000,,43.295609,-1.997044
+131,Irun-Muga FHD ,https://www.trafikoa.eus/static/files/tr/camaras/852.jpg,A-8,0.000,,43.33959,-1.75347
+1,DOMO 93 - El gallo - Erlexes,,A8,105+050,Donostia,4786603.0,515012.75
+2,DOMO 94,,A8,106+700,Donostia,4786318.38,513422.99
+3,DOMO 95 - PMV Banderola,,A8,108+850,Santander,4786961.68,511665.27
+4,DOMO 96 - El Gallo,http://www.bizkaimove.com/camaras/cam86.jpg,A8,105+700,Donostia,4786318.15,514398.58
+5,DOMO 97 - AP-8 Galdakao,http://www.bizkaimove.com/camaras/cam85.jpg,A8,107+300,Santander,4786932.54,512693.52
+6,DOMO - AP-8 Hirubide,http://www.bizkaimove.com/camaras/cam84.jpg,A8,109+100,Santander,4786768.81,510948.04
+7,DOMO - AP-8 Basauri,,A8,110+300,Santander,4786544.7,510156.04
+8,CCTV 100 (domo),,A8,114+200,Santander,4787276.6,506381.5
+9,CCTV 101 - Enlace A-8,,A8,102+200,Donostia,4786539.73,517698.74
+10,CCTV 102 - Sal. Malmasín (Dir. Basauri),http://www.bizkaimove.com/camaras/cam40.jpg,A8,110+300,Santander,4786548.48,510086.04
+11,CCTV 103 - Basauri,http://www.bizkaimove.com/camaras/cam4.jpg,A8,110+500,Donostia,4786483.36,509832.21
+12,CCTV 104 - Malmasin (La Peña),http://www.bizkaimove.com/camaras/cam20.jpg,A8,114+700,Santander,4787427.2,506020.22
+13,CCTV 105 - Bilbao Oeste (Miraflores),http://www.bizkaimove.com/camaras/cam60.jpg,A8,115+300,Donostia,4787840.89,505654.36
+14,CCTV 106 - Juan de Garay,http://www.bizkaimove.com/camaras/cam14.jpg,A8,116+000,Santander,4788381.78,505184.04
+15,CCTV 107 - Rekalde,http://www.bizkaimove.com/camaras/cam18.jpg,A8,116+700,Donostia,4788534.49,504578.74
+16,CCTV 108 - Sabino Arana a Donosti,http://www.bizkaimove.com/camaras/cam17.jpg,A8,117+300,Donostia,4788956.78,504164.24
+17,CCTV 110 - Sabino Arana a Santander,http://www.bizkaimove.com/camaras/cam15.jpg,A8,117+700,Santander,4789287.8,503919.39
+18,CCTV 112 - Balmaseda,http://www.bizkaimove.com/camaras/cam16.jpg,A8,119+500,Donostia,4790561.04,502833.15
+19,CCTV 113 - Curvas Zorroza,http://www.bizkaimove.com/camaras/cam12.jpg,A8,120+400,Donostia,4791276.58,502290.88
+20,CCTV 114 - Cruces-Zorroza,http://www.bizkaimove.com/camaras/cam10.jpg,A8,121+400,Santander,4791715.8,501537.92
+21,CCTV 115 - Pasarela de Cruces,http://www.bizkaimove.com/camaras/cam11.jpg,A8,122+000,Donostia,4792046.0,501155.13
+22,DOMO en Nudo de Cruces,http://www.bizkaimove.com/camaras/cam8.jpg,A8,122+400,Santander,4792464.99,501038.72
+23,CCTV 117 - Nudo Cruces,,A8,122+400,Santander,4792485.98,501051.13
+24,CCTV 118 - Max Center,http://www.bizkaimove.com/camaras/cam6.jpg,A8,124+000,Donostia,4793145.49,499251.81
+25,CCTV 119 - Max Center,http://www.bizkaimove.com/camaras/cam34.jpg,A8,124+400,Donostia,4793106.4,499186.26
+26,CCTV 120 - Recta Max Center,,A8,125+500,Santander,4793739.55,498403.73
+27,CCTV 121 - PK 126,,A8,126+300,Santander,4794573.32,498080.32
+28,CCTV 122 - Incorporación desde Ballonti,,A8,126+600,Santander,4794704.16,498025.93
+29,DOMO 123,,A8,127+300,Santander,4795180.49,497620.99
+30,CCTV 124 - Nudo Portugalete,,A8,127+500,Santander,4795416.33,497419.14
+31,CCTV 125 - Nudo Portugalete,http://www.bizkaimove.com/camaras/cam32.jpg,A8,127+500,Santander,4795260.11,497336.61
+32,CCTV 126 - Mediana Salida Portugalete,,A8,128+200,Donostia,4795622.33,496677.38
+33,CCTV 127 - NCL Santurtzi,,A8,128+700,Donostia,4795739.77,496345.53
+34,CCTV 128 - Salida Santurtzi,,A8,128+900,Santander,4795875.0,496198.92
+35,CCTV 130 - Salida Puerto,,A8,129+600,Santander,4796520.29,495733.22
+36,CCTV 131 - Salida Puerto,,A8,129+700,Donostia,4796474.67,495685.19
+37,CCTV 132 - Gasolinera Ugaldebieta,,A8,130+600,Donostia,4796950.92,494822.67
+38,CCTV 133 - Gallarta,http://www.bizkaimove.com/camaras/cam31.jpg,A8,132+200,Santander,4797477.37,493482.16
+39,CCTV 134 - Salida Zierbena,,A8,133+200,Donostia,4797322.61,492678.1
+40,CCTV 135 - Móvil Báscula Dinámica,,A8,134+000,Donostia,4797507.46,491939.5
+41,CCTV 137 - Puente La Arena,http://www.bizkaimove.com/camaras/cam30.jpg,A8,135+000,Donostia,4798598.55,491250.28
+42,CCTV 138 - Radioenlace I,,A8,139+000,Donostia,4798819.76,487874.47
+43,CCTV 140 - Sumigas,,A8,126+100,Santander,4794278.45,498150.23
+44,CCTV 201 - Barakaldo,,N - 637,008+740,Erletxes,4792880.69,501180.95
+45,CCTV 202 - Salida Barakaldo,http://www.bizkaimove.com/camaras/cam7.jpg,N - 637,008+960,Erletxes,4793092.36,501199.73
+46,CCTV 203 - Puente Rontegui,http://www.bizkaimove.com/camaras/cam2.jpg,N - 637,009+580,Erletxes,4793481.92,501639.89
+47,CCTV 204 - Nudo de Kukularra,,N - 637,010+440,Erletxes,4793723.29,502546.06
+48,CCTV 205 - Cámara DOMO en Nudo Asua,http://www.bizkaimove.com/camaras/cam52.jpg,N - 637,012+120,Cruces,4794019.17,503797.99
+49,CCTV 206 - Incorporación a N-637,,N - 637,013+300,Cruces,4793723.71,504251.92
+50,CCTV 207 - Túneles de Artxanda,http://www.bizkaimove.com/camaras/cam70.jpg,N - 637,014+000,Erletxes,4792656.14,505060.71
+51,CCTV 208 - DOMO ETD34,,N - 637,014+400,Erletxes,4792637.05,506150.36
+52,CCTV 209 - Sondika,http://www.bizkaimove.com/camaras/cam97.jpg,N - 637,015+840,Erletxes,4792939.32,506485.86
+53,CCTV 210 - ERU36,,N - 637,017+400,Erletxes,4792872.91,508220.31
+54,CCTV 211 - Nudo de Derio,http://www.bizkaimove.com/camaras/cam63.jpg,N - 637,018+070,Erletxes,4792571.17,508749.0
+55,CCTV 212 - Enlace Sto. Domingo,,N - 637,018+500,Cruces,4792374.91,509146.8
+56,CCTV 213 - Tunel I Exterior Derio,,N - 637,019+150,Cruces,4792074.76,509731.7
+57,CCTV 214 - Tunel I dir. Derio,,N - 637,019+480,Cruces,4791834.12,510045.97
+58,CCTV 215 - Tunel I dir. Cruces,,N - 637,019+200,Cruces,4791834.12,510045.97
+59,CCTV 216 - Tunel I Exterior Erletxes,http://www.bizkaimove.com/camaras/cam71.jpg,N - 637,019+500,Cruces,4791578.32,510528.09
+60,CCTV 217 - Tunel II Exterior Derio,http://www.bizkaimove.com/camaras/cam72.jpg,N - 637,020+150,Cruces,4791578.32,510528.09
+61,CCTV 218 - Tunel II Dir. Derio,,N - 637,020+400,Cruces,4791834.12,510045.97
+62,CCTV 219 - Tunel II dir. Erletxes,,N - 637,020+600,Cruces,4791834.12,510045.97
+63,CCTV 220 - Tunel II Exterior Erletxes,,N - 637,020+730,Erletxes,4791244.28,511026.35
+64,CCTV 221 - Enlace de Zamudio,http://www.bizkaimove.com/camaras/cam73.jpg,N - 637,021+470,Cruces,4791129.29,511725.62
+65,CCTV 222 - ETD 42,,N - 637,021+800,Cruces,4790897.4,512098.66
+66,CCTV 223 - Túnel IV Exterior Erletxes,,N - 637,022+800,Cruces,4790473.21,512843.2
+67,CCTV 224 - Tunel III Exterior Derio,,N - 637,024+030,Cruces,4790166.93,514078.61
+68,CCTV 225 - Tunel III dir. Erletxes,,N - 637,020+600,Cruces,4790672.04,512388.05
+69,CCTV 226 - Tunel III dir. Erletxes,,N - 637,020+600,Cruces,4790051.3,514381.5
+70,CCTV 227 - Túnel 4 Exterior Erletxes,,N - 637,024+400,Erletxes,4790010.31,514535.22
+71,CCTV 228 - Enlace Lezama,http://www.bizkaimove.com/camaras/cam74.jpg,N - 637,025+000,Cruces,4789985.61,515025.08
+72,CCTV 229 - Enlace Larrabetzu I,,N - 637,026+070,Erletxes,4789216.0,515706.18
+73,CCTV 230 - Enlace Larrabetzu II,http://www.bizkaimove.com/camaras/cam75.jpg,N - 637,026+140,Erletxes,4789161.02,515703.22
+74,CCTV 231 - Nudo Larrabetzu,,N - 637,026+740,Cruces,4788624.09,515997.11
+1,Amara,http://www.trafikoa.net/static/files/tr/camaras/807.jpg,GI-20,11.000,,43.29769,-1.986157
+2,Añorga,http://www.trafikoa.net/static/files/tr/camaras/808.jpg,GI-20,12.000,,43.295609,-1.997044
+3,Loiola,http://www.trafikoa.net/static/files/tr/camaras/806.jpg,GI-20,8.500,,43.305725,-1.968328
+4,Ondarreta,http://www.trafikoa.net/static/files/tr/camaras/809.jpg,GI-20,13.000,,43.29824,-2.009245
+5,Pasaia 1,http://www.trafikoa.net/static/files/tr/camaras/804.jpg,GI-20,5.000,,43.310689,-1.937903
+6,Pasaia 2,http://www.trafikoa.net/static/files/tr/camaras/805.jpg,GI-20,4.500,,43.3105,-1.934152
+7,Loiola,http://www.trafikoa.net/static/files/tr/camaras/806.jpg,GI-20,8.500,,43.305725,-1.968328
+8,Ondarreta,http://www.trafikoa.net/static/files/tr/camaras/809.jpg,GI-20,13.000,,43.29824,-2.009245
+9,Ondarreta - Tunel,/imagenes/trafico/TunelAntiguo/snap_c1.jpg,,,,43.31546,-2.00082
+10,Pasaia 1,http://www.trafikoa.net/static/files/tr/camaras/804.jpg,GI-20,5.000,,43.310689,-1.937903
+11,Pasaia 2,http://www.trafikoa.net/static/files/tr/camaras/805.jpg,GI-20,4.500,,43.3105,-1.934152
+12,Plaza de Europa,/imagenes/trafico/PlazaEuropa/snap_c1.jpg,,,,43.30904,-2.00975
+13,Plaza Euskadi,/imagenes/trafico/PlazaEuskadi/snap_c1.jpg,,,,43.32055,-1.97943
+14,Reina Regente,/imagenes/trafico/ReinaRegente/snap_c1.jpg,,,,43.32313,-1.98087
+15,San Mart¿n - Easo,/imagenes/trafico/Easo/snap_c1.jpg,,,,43.31689,-1.98364
+145,PPCC-31 Indautxu,https://www.bilbao.eus/camarastrafico/codec0145/snap_c1.jpg,,,PPCC-31 Indautxu,43.26139493790335,-2.940265067775675
+148,PPCC34_Moyua,https://www.bilbao.eus/camarastrafico/codec0148/snap_c1.jpg,,,PPCC34_Moyua,43.26268173790335,-2.935505867775675
+-1,PPCC35_Zunzunegui,https://www.bilbao.eus/camarastrafico/codec00-1/snap_c1.jpg,,,PPCC35_Zunzunegui,43.26262323790335,-2.950462267775675
+35,Sdo. Corazón Norte (Parque),https://www.bilbao.eus/camarastrafico/codec0035/snap_c1.jpg,,,Sdo. Corazón Norte (Parque),43.26524783790335,-2.945200867775675
+33,Sdo. Corazón Sur (Sabino Arana),https://www.bilbao.eus/camarastrafico/codec0033/snap_c1.jpg,,,Sdo. Corazón Sur (Sabino Arana),43.26522433790335,-2.945207767775675
+34,Sdo. Corazón Este (Gran Vía),https://www.bilbao.eus/camarastrafico/codec0034/snap_c1.jpg,,,Sdo. Corazón Este (Gran Vía),43.26523283790335,-2.945184867775675
+72,Mª Diaz de Haro/Rguez .Arias,https://www.bilbao.eus/camarastrafico/codec0072/snap_c1.jpg,,,Mª Diaz de Haro/Rguez .Arias,43.26365953790335,-2.943595667775675
+42,Henao/Heros,https://www.bilbao.eus/camarastrafico/codec0042/snap_c1.jpg,,,Henao/Heros,43.26468883790335,-2.932552067775675
+41,Rguez.Arias/Alda. Rekalde,https://www.bilbao.eus/camarastrafico/codec0041/snap_c1.jpg,,,Rguez.Arias/Alda. Rekalde,43.26188243790335,-2.935533667775675
+26,Iparraguirre/Alda. Urquijo,https://www.bilbao.eus/camarastrafico/codec0026/snap_c1.jpg,,,Iparraguirre/Alda. Urquijo,43.26041793790335,-2.9375139677756748
+1,M. Díaz de Haro/Simón Bolívar,https://www.bilbao.eus/camarastrafico/codec0001/snap_c1.jpg,,,M. Díaz de Haro/Simón Bolívar,43.26065663790335,-2.9445240677756748
+27,Plza. Emilio Campuzano,https://www.bilbao.eus/camarastrafico/codec0027/snap_c1.jpg,,,Plza. Emilio Campuzano,43.26316903790335,-2.939549867775675
+8,Plza. Moyúa,https://www.bilbao.eus/camarastrafico/codec0008/snap_c1.jpg,,,Plza. Moyúa,43.26287443790335,-2.9344563677756748
+23,Santa Clara,https://www.bilbao.eus/camarastrafico/codec0023/snap_c1.jpg,,,Santa Clara,43.25420193790335,-2.9111352677756748
+77,Plza. Unamuno,https://www.bilbao.eus/camarastrafico/codec0077/snap_c1.jpg,,,Plza. Unamuno,43.25841103790335,-2.921847367775675
+68,Sabino Arana/Autonomia,https://www.bilbao.eus/camarastrafico/codec0068/snap_c1.jpg,,,Sabino Arana/Autonomia,43.25804513790335,-2.9480646677756748
+65,Autonomía/Avda. Ferrocarril,https://www.bilbao.eus/camarastrafico/codec0065/snap_c1.jpg,,,Autonomía/Avda. Ferrocarril,43.257722437903354,-2.945921967775675
+30,Av. Ferrocarril/Autonomía,https://www.bilbao.eus/camarastrafico/codec0030/snap_c1.jpg,,,Av. Ferrocarril/Autonomía,43.25761683790335,-2.946140867775675
+3,Aita Donosti,https://www.bilbao.eus/camarastrafico/codec0003/snap_c1.jpg,,,Aita Donosti,43.25794263790335,-2.949912167775675
+2,Sabino Arana/Av. Ferrocarril,https://www.bilbao.eus/camarastrafico/codec0002/snap_c1.jpg,,,Sabino Arana/Av. Ferrocarril,43.26054943790335,-2.946875667775675
+69,Sabino Arana/Gral. Eguia,https://www.bilbao.eus/camarastrafico/codec0069/snap_c1.jpg,,,Sabino Arana/Gral. Eguia,43.25947583790335,-2.947270267775675
+45,Circo Amateur/Carretera Galdakao,https://www.bilbao.eus/camarastrafico/codec0045/snap_c1.jpg,,,Circo Amateur/Carretera Galdakao,43.24820573790335,-2.906828167775675
+46,Av. Miraflores/Carretera Galdakao,https://www.bilbao.eus/camarastrafico/codec0046/snap_c1.jpg,,,Av. Miraflores/Carretera Galdakao,43.24692503790335,-2.910418867775675
+47,Av. Miraflores/Pintor Losada,https://www.bilbao.eus/camarastrafico/codec0047/snap_c1.jpg,,,Av. Miraflores/Pintor Losada,43.24674953790335,-2.912330267775675
+64,Plza. Biribila,https://www.bilbao.eus/camarastrafico/codec0064/snap_c1.jpg,,,Plza. Biribila,43.26125943790335,-2.9275379677756748
+52,Plza. Víctor Chávarri,https://www.bilbao.eus/camarastrafico/codec0052/snap_c1.jpg,,,Plza. Víctor Chávarri,43.26230323790335,-2.946296367775675
+70,Santa Ana de Bolueta/Camino del Pontón,https://www.bilbao.eus/camarastrafico/codec0070/snap_c1.jpg,,,Santa Ana de Bolueta/Camino del Pontón,43.24664893790335,-2.908738867775675
+82,Rtda. Leceaga,https://www.bilbao.eus/camarastrafico/codec0082/snap_c1.jpg,,,Rtda. Leceaga,43.26025313790335,-2.954629467775675
+83,Avda.Montevideo/Gurtubay,https://www.bilbao.eus/camarastrafico/codec0083/snap_c1.jpg,,,Avda.Montevideo/Gurtubay,43.25899783790335,-2.9518174677756748
+84,Pte. Cantalojas/San Francisco,https://www.bilbao.eus/camarastrafico/codec0084/snap_c1.jpg,,,Pte. Cantalojas/San Francisco,43.25705583790335,-2.9321414677756747
+81,Avda.Montevideo/Cuesta de Olabeaga,https://www.bilbao.eus/camarastrafico/codec0081/snap_c1.jpg,,,Avda.Montevideo/Cuesta de Olabeaga,43.26075203790335,-2.954687767775675
+104,Túnel Bernaola/Avda. de Enekuri,https://www.bilbao.eus/camarastrafico/codec0104/snap_c1.jpg,,,Túnel Bernaola/Avda. de Enekuri,43.27798583790335,-2.9551629677756748
+100,Túnel Bernaola Exterior Entrada Lado Bilbao,https://www.bilbao.eus/camarastrafico/codec0100/snap_c1.jpg,,,Túnel Bernaola Exterior Entrada Lado Bilbao,43.26880603790335,-2.955219567775675
+101,Túnel Bernaola Exterior Lado Asúa,https://www.bilbao.eus/camarastrafico/codec0101/snap_c1.jpg,,,Túnel Bernaola Exterior Lado Asúa,43.27438053790335,-2.954400567775675
+102,Túnel Bernaola Exterior Salida Lado Bilbao,https://www.bilbao.eus/camarastrafico/codec0102/snap_c1.jpg,,,Túnel Bernaola Exterior Salida Lado Bilbao,43.26958093790335,-2.956166567775675
+13,Pte. San Antón,https://www.bilbao.eus/camarastrafico/codec0013/snap_c1.jpg,,,Pte. San Antón,43.25542933790335,-2.922515467775675
+107,107 Bernaola 3 Sentido Asúa,https://www.bilbao.eus/camarastrafico/codec0107/snap_c1.jpg,,,107 Bernaola 3 Sentido Asúa,43.27223973790335,-2.955763967775675
+108,108 Bernaola 4 Sentido Asúa,https://www.bilbao.eus/camarastrafico/codec0108/snap_c1.jpg,,,108 Bernaola 4 Sentido Asúa,43.27294283790335,-2.955400767775675
+111,111 Bernaola 7 Sentido Bilbao,https://www.bilbao.eus/camarastrafico/codec0111/snap_c1.jpg,,,111 Bernaola 7 Sentido Bilbao,43.27306563790335,-2.955728567775675
+112,112 Bernaola 8 Sentido Bilbao,https://www.bilbao.eus/camarastrafico/codec0112/snap_c1.jpg,,,112 Bernaola 8 Sentido Bilbao,43.27230613790335,-2.956136267775675
+106,106 Bernaola 2 Sentido Asúa,https://www.bilbao.eus/camarastrafico/codec0106/snap_c1.jpg,,,106 Bernaola 2 Sentido Asúa,43.271475337903354,-2.955956667775675
+105,105 Bernaola 1 Sentido Asúa,https://www.bilbao.eus/camarastrafico/codec0105/snap_c1.jpg,,,105 Bernaola 1 Sentido Asúa,43.27006523790335,-2.956022167775675
+109,109 Bernaola 5 Sentido Asúa,https://www.bilbao.eus/camarastrafico/codec0109/snap_c1.jpg,,,109 Bernaola 5 Sentido Asúa,43.27381893790335,-2.954895867775675
+7,Dr. Areilza/Alda. Urquijo,https://www.bilbao.eus/camarastrafico/codec0007/snap_c1.jpg,,,Dr. Areilza/Alda. Urquijo,43.26135093790335,-2.942427767775675
+9,Jardines Albia,https://www.bilbao.eus/camarastrafico/codec0009/snap_c1.jpg,,,Jardines Albia,43.26284973790335,-2.929037367775675
+14,Arenal,https://www.bilbao.eus/camarastrafico/codec0014/snap_c1.jpg,,,Arenal,43.25948693790335,-2.923825567775675
+19,Hurtado de Amézaga,https://www.bilbao.eus/camarastrafico/codec0019/snap_c1.jpg,,,Hurtado de Amézaga,43.25937393790335,-2.930554367775675
+15,Plza. Erkoreka,https://www.bilbao.eus/camarastrafico/codec0015/snap_c1.jpg,,,Plza. Erkoreka,43.26340123790335,-2.9233496677756747
+11,Ldo. Poza/Ercilla,https://www.bilbao.eus/camarastrafico/codec0011/snap_c1.jpg,,,Ldo. Poza/Ercilla,43.26146693790335,-2.938501767775675
+103,Túnel Bernaola Puerta Cuarto Técnico,https://www.bilbao.eus/camarastrafico/codec0103/snap_c1.jpg,,,Túnel Bernaola Puerta Cuarto Técnico,43.27123543790335,-2.9557154677756747
+114,114 Bernaola 10 Sentido Bilbao,https://www.bilbao.eus/camarastrafico/codec0114/snap_c1.jpg,,,114 Bernaola 10 Sentido Bilbao,43.27006693790335,-2.956224867775675
+113,113 Bernaola 9 Sentido Bilbao,https://www.bilbao.eus/camarastrafico/codec0113/snap_c1.jpg,,,113 Bernaola 9 Sentido Bilbao,43.27148233790335,-2.956290867775675
+12,General Concha/Alda. Urquijo,https://www.bilbao.eus/camarastrafico/codec0012/snap_c1.jpg,,,General Concha/Alda. Urquijo,43.25964283790335,-2.934670167775675
+125,PC08_BARRENKALEBARRENA_ENT,https://www.bilbao.eus/camarastrafico/codec0125/snap_c1.jpg,,,PC08_BARRENKALEBARRENA_ENT,43.25669523790335,-2.925674467775675
+124,PC09_PELOTA_ENT,https://www.bilbao.eus/camarastrafico/codec0124/snap_c1.jpg,,,PC09_PELOTA_ENT,43.25697243790335,-2.925950267775675
+115,PC22_ESPERANZA_SAL,https://www.bilbao.eus/camarastrafico/codec0115/snap_c1.jpg,,,PC22_ESPERANZA_SAL,43.26209353790335,-2.922683867775675
+118,PC19_CORREO_SAL,https://www.bilbao.eus/camarastrafico/codec0118/snap_c1.jpg,,,PC19_CORREO_SAL,43.25938483790335,-2.923549267775675
+119,PC18_BIDEBARIETA_SAL,https://www.bilbao.eus/camarastrafico/codec0119/snap_c1.jpg,,,PC18_BIDEBARIETA_SAL,43.25902863790335,-2.924596367775675
+120,PC17_NUEVA_SAL,https://www.bilbao.eus/camarastrafico/codec0120/snap_c1.jpg,,,PC17_NUEVA_SAL,43.25893193790335,-2.925461367775675
+117,PC20_FUEROS_SAL,https://www.bilbao.eus/camarastrafico/codec0117/snap_c1.jpg,,,PC20_FUEROS_SAL,43.25960063790335,-2.923088567775675
+121,PC16_SANTA MARÍA_SAL,https://www.bilbao.eus/camarastrafico/codec0121/snap_c1.jpg,,,PC16_SANTA MARÍA_SAL,43.25869313790335,-2.926412267775675
+116,PC21_ESTUFA_SAL,https://www.bilbao.eus/camarastrafico/codec0116/snap_c1.jpg,,,PC21_ESTUFA_SAL,43.26059683790335,-2.922647467775675
+135,PC24_DE LA CRUZ_SAL,https://www.bilbao.eus/camarastrafico/codec0135/snap_c1.jpg,,,PC24_DE LA CRUZ_SAL,43.25815373790335,-2.922135367775675
+127,PC06_CARNICERÍA VIEJA_ENT,https://www.bilbao.eus/camarastrafico/codec0127/snap_c1.jpg,,,PC06_CARNICERÍA VIEJA_ENT,43.25608203790335,-2.9249397677756748
+128,PC05_BELOSTIKALE_ENT,https://www.bilbao.eus/camarastrafico/codec0128/snap_c1.jpg,,,PC05_BELOSTIKALE_ENT,43.25592303790335,-2.924569267775675
+130,PC03_ARTEKALE_ENT,https://www.bilbao.eus/camarastrafico/codec0130/snap_c1.jpg,,,PC03_ARTEKALE_ENT,43.255609537903354,-2.923759967775675
+131,PC02_SOMERA_ENT,https://www.bilbao.eus/camarastrafico/codec0131/snap_c1.jpg,,,PC02_SOMERA_ENT,43.25551083790335,-2.923303467775675
+132,PC01_RONDA_ENT,https://www.bilbao.eus/camarastrafico/codec0132/snap_c1.jpg,,,PC01_RONDA_ENT,43.25544953790335,-2.922872267775675
+133,PC28_RONDA_CENT ( NO P.C.),https://www.bilbao.eus/camarastrafico/codec0133/snap_c1.jpg,,,PC28_RONDA_CENT ( NO P.C.),43.25753553790335,-2.922015567775675
+129,PC04_TENDERÍA_ENT,https://www.bilbao.eus/camarastrafico/codec0129/snap_c1.jpg,,,PC04_TENDERÍA_ENT,43.25576163790335,-2.9241696677756748
+138,PC13_FUEROS_ENT,https://www.bilbao.eus/camarastrafico/codec0138/snap_c1.jpg,,,PC13_FUEROS_ENT,43.25956323790335,-2.922047567775675
+139,PC11_ESPERANZA_ENT,https://www.bilbao.eus/camarastrafico/codec0139/snap_c1.jpg,,,PC11_ESPERANZA_ENT,43.25984133790335,-2.922257367775675
+140,PC12_ASKAO_ENT,https://www.bilbao.eus/camarastrafico/codec0140/snap_c1.jpg,,,PC12_ASKAO_ENT,43.25985243790335,-2.922134867775675
+143,PC27_PRIM_SAL,https://www.bilbao.eus/camarastrafico/codec0143/snap_c1.jpg,,,PC27_PRIM_SAL,43.25686073790335,-2.916243967775675
+144,PC29_PLAZUELA SANTIAGO (NO P.C.),https://www.bilbao.eus/camarastrafico/codec0144/snap_c1.jpg,,,PC29_PLAZUELA SANTIAGO (NO P.C.),43.25722223790335,-2.924306567775675
+142,PC15_ITURRIBIDE_ENT,https://www.bilbao.eus/camarastrafico/codec0142/snap_c1.jpg,,,PC15_ITURRIBIDE_ENT,43.25767843790335,-2.918402967775675
+136,PC14_SOMBRERERÍA_ENT,https://www.bilbao.eus/camarastrafico/codec0136/snap_c1.jpg,,,PC14_SOMBRERERÍA_ENT,43.25838513790335,-2.921953367775675
+126,PC07_BARRENKALE_ENT,https://www.bilbao.eus/camarastrafico/codec0126/snap_c1.jpg,,,PC07_BARRENKALE_ENT,43.25637133790335,-2.925322767775675
+122,PC30_SANTA MARÍA_ENT (NO P.C.),https://www.bilbao.eus/camarastrafico/codec0122/snap_c1.jpg,,,PC30_SANTA MARÍA_ENT (NO P.C.),43.25803953790335,-2.925699867775675
+123,PC10_MERCED_ENT,https://www.bilbao.eus/camarastrafico/codec0123/snap_c1.jpg,,,PC10_MERCED_ENT,43.25781813790335,-2.926329467775675
+134,PC25_MARÍA MUÑOZ_SAL,https://www.bilbao.eus/camarastrafico/codec0134/snap_c1.jpg,,,PC25_MARÍA MUÑOZ_SAL,43.25798923790335,-2.921501167775675
+141,PPCC-27 Prim Entrada,https://www.bilbao.eus/camarastrafico/codec0141/snap_c1.jpg,,,PPCC-27 Prim Entrada,43.25810163790335,-2.921079267775675
+137,PC23_LIBERTAD_SAL,https://www.bilbao.eus/camarastrafico/codec0137/snap_c1.jpg,,,PC23_LIBERTAD_SAL,43.25861173790335,-2.922131667775675
+80,Zabalbide/Arabella,https://www.bilbao.eus/camarastrafico/codec0080/snap_c1.jpg,,,Zabalbide/Arabella,43.26094713790335,-2.911473367775675
+85,Ballets Olaeta/Gral. Eraso,https://www.bilbao.eus/camarastrafico/codec0085/snap_c1.jpg,,,Ballets Olaeta/Gral. Eraso,43.26733703790335,-2.951517567775675
+86,Zarandoa/Islas Baleares,https://www.bilbao.eus/camarastrafico/codec0086/snap_c1.jpg,,,Zarandoa/Islas Baleares,43.27728263790335,-2.963350867775675
+151,Urquijo-Mazarredo-Gran Vía,https://www.bilbao.eus/camarastrafico/codec0151/snap_c1.jpg,,,Urquijo-Mazarredo-Gran Vía,43.26175823790335,-2.929710267775675
+152,P.P. Arenal,https://www.bilbao.eus/camarastrafico/codec0152/snap_c1.jpg,,,P.P. Arenal,43.25973463790335,-2.923709967775675
+30,Antonia Fija 1 - Avenida Zabalgana,https://www.vitoria-gasteiz.org/c11-01w/cameras?action=get&id=CAM30,,,,42.838785,-2.696882
+31,Antonia Fija 2 - Alto Armentia,https://www.vitoria-gasteiz.org/c11-01w/cameras?action=get&id=CAM31,,,,42.837707,-2.697583
+32,Antonia Fija 3 - Portal de Castilla,https://www.vitoria-gasteiz.org/c11-01w/cameras?action=get&id=CAM32,,,,42.838081,-2.695962
+17,Deba Fija 1 - Deba,https://www.vitoria-gasteiz.org/c11-01w/cameras?action=get&id=CAM17,,,,42.85576,-2.656782
+18,Deba Fija 1 - Madrid,https://www.vitoria-gasteiz.org/c11-01w/cameras?action=get&id=CAM18,,,,42.855695,-2.657477
+13,Gamarra Fija 1 - Madrid,https://www.vitoria-gasteiz.org/c11-01w/cameras?action=get&id=CAM13,,,,42.859294,-2.66254
+14,Gamarra Fija 2 - Zaramaga,https://www.vitoria-gasteiz.org/c11-01w/cameras?action=get&id=CAM14,,,,42.859801,-2.663222
+15,Gamarra Fija 3 - Portal de Gamarra,https://www.vitoria-gasteiz.org/c11-01w/cameras?action=get&id=CAM15,,,,42.859896,-2.662497
+20,Honduras Fija - Norte,https://www.vitoria-gasteiz.org/c11-01w/cameras?action=get&id=CAM20,,,,42.85829,-2.68142
+21,Honduras Fija - Sur,https://www.vitoria-gasteiz.org/c11-01w/cameras?action=get&id=CAM21,,,,42.85859,-2.68158
+23,Juan Garay Fija 2 - Zaramaga,https://www.vitoria-gasteiz.org/c11-01w/cameras?action=get&id=CAM23,,,,42.86198,-2.67307
+11,Michelín Fija 1 - Boulevard,https://www.vitoria-gasteiz.org/c11-01w/cameras?action=get&id=CAM11,,,,42.86489,-2.66452
+26,Salburua Fija 1 - Bruselas,https://www.vitoria-gasteiz.org/c11-01w/cameras?action=get&id=CAM26,,,,42.850515,-2.651183
+27,Salburua Fija 2 - Salburua,https://www.vitoria-gasteiz.org/c11-01w/cameras?action=get&id=CAM27,,,,42.850811,-2.650722
+36,Urartea Fija 1 - Huetos,https://www.vitoria-gasteiz.org/c11-01w/cameras?action=get&id=CAM36,,,,42.855147,-2.705815
+37,Urartea Fija 2 - Bremen,https://www.vitoria-gasteiz.org/c11-01w/cameras?action=get&id=CAM37,,,,42.855101,-2.706742
+38,Urartea Fija 3 - Urartea,https://www.vitoria-gasteiz.org/c11-01w/cameras?action=get&id=CAM38,,,,42.855494,-2.70589
+39,Urartea Fija 4 - Mercedes,https://www.vitoria-gasteiz.org/c11-01w/cameras?action=get&id=CAM39,,,,42.855307,-2.70687
+110,110 Bernaola 6 Sentido Bilbao,https://www.bilbao.eus/camarastrafico/codec0110/snap_c1.jpg,,,110 Bernaola 6 Sentido Bilbao,43.27389933790335,-2.955182767775675
+149,PPCC-35 Zunzunegui,https://www.bilbao.eus/camarastrafico/codec0149/snap_c1.jpg,,,PPCC-35 Zunzunegui,43.26262323790335,-2.950462267775675
+150,PPCC-36 Camino Morgan,https://www.bilbao.eus/camarastrafico/codec0150/snap_c1.jpg,,,PPCC-36 Camino Morgan,43.26854183790335,-2.954037767775675
